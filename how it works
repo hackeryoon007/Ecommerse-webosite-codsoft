@@ -1,0 +1,38 @@
+Breakdown of the Flow:
+Home Page (Leftmost iPhone Screen)
+
+Acts as the dashboard showcasing featured car posters.
+
+Every card has the car name, model, and poster teaser text.
+
+Gallery Section (Second & Third Columns)
+
+Scrollable full gallery.
+
+Each poster has transitions linked to its detailed payment view.
+
+Poster Pages (Pink Cards)
+
+Displays the chosen poster.
+
+Shows price, size, and GPay, Paytm, Mastercard options.
+
+Navigation arrows (blue lines) link back to the gallery for continued shopping.
+
+Side Drawer / Menu
+
+Contains standard eCommerce sections: Home, About, Cart, Contact, etc.
+
+Soft blurred background for overlay feel.
+
+🛠️ How It Works (UX-wise)
+Users land on the home screen, select a poster.
+
+They are taken to a scrollable gallery, click one to preview.
+
+They reach a poster detail page with pricing and payment options.
+
+They can pay using visual buttons (simulated), or go back to explore more.
+
+Entire flow is interconnected using Figma prototyping arrows.
+
